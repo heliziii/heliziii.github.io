@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at the University of California San Diego, advised by Professor Melissa Gymrek. Before joining UCSD, I received my B.Sc. in Computer Engineering from Sharif University of Technology. My research is focused on using computational methods to study the human genome, particularly Tandem Repeats. 
+I am a third-year [CSE](https://cse.ucsd.edu/) Ph.D. student at the University of California San Diego, advised by Professor [Melissa Gymrek](https://gymreklab.com/people.html). Before joining UCSD, I received my B.Sc. in Computer Engineering from Sharif University of Technology. My research is focused on using computational methods to study the human genome, particularly Tandem Repeats. 
 
-In the summer of 2022, I was an intern in the AI lab at Illumina, Inc.
+In the summer of 2022, I was an intern in the AI lab at Illumina, Inc. where I had the pleasure to work with Petko Fiziev.
 
 <br>
 
