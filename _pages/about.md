@@ -22,6 +22,7 @@ In the summer of 2022, I was an intern in the AI lab at Illumina, Inc.
 
 
  ### A deep population reference panel of tandem repeat variation 
+ 
  ***Helyaneh Ziaei Jam***, Yang Li, Ross DeVito, Nima Mousavi, Nichole Ma, Ibra Lujumba, Yagoub Adam, Mikhail Maksimov, Bonnie Huang, Egor Dolzhenko, Yunjiang Qiu, Fredrick Elishama Kakembo, Habi Joseph, Blessing Onyido, Jumoke Adeyemi, Mehrdad Bakhtiari, Jonghun Park, Sara Javadzadeh, Daudi Jjingo, Ezekiel Adebiyi, Vineet Bafna & Melissa Gymrek \
   **(Nature Communications 2023)** [Full Version](https://www.nature.com/articles/s41467-023-42278-3)
 
@@ -35,11 +36,11 @@ Adam English, Egor Dolzhenko, ***Helyaneh Ziaei Jam***, Sean Mckenzie, Nathan D.
 
 
 ### Genome-wide selection inference at short tandem repeats 
-Bonnie Huang, Arun Durvasula, Nima Mousavi, ***Helyaneh Ziaei-Jam***, Mikhail Maksimov, Kirk E. Lohmueller, Melissa Gymrek \
+Bonnie Huang, Arun Durvasula, Nima Mousavi, ***Helyaneh Ziaei Jam***, Mikhail Maksimov, Kirk E. Lohmueller, Melissa Gymrek \
 [preprint](https://www.biorxiv.org/content/10.1101/2022.05.12.491726v1)
 
 ### Genome-wide detection of somatic mosaicism at short tandem repeats 
-Aarushi Sehgal, ***Helyaneh Ziaei-Jam***, Andrew Shen, Melissa Gymrek \
+Aarushi Sehgal, ***Helyaneh Ziaei Jam***, Andrew Shen, Melissa Gymrek \
  [preprint](https://www.biorxiv.org/content/10.1101/2023.11.22.568371v1)
 
 
