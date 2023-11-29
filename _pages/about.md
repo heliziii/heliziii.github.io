@@ -16,12 +16,11 @@ In the summer of 2022, I was an intern in the AI lab at Illumina, Inc.
 
 ## Publications
 
-<div style="line-height:150%;">
+<div style="line-height:100%;">
     <br>
 </div>
 
-
- ### A deep population reference panel of tandem repeat variation 
+### A deep population reference panel of tandem repeat variation 
  
  ***Helyaneh Ziaei Jam***, Yang Li, Ross DeVito, Nima Mousavi, Nichole Ma, Ibra Lujumba, Yagoub Adam, Mikhail Maksimov, Bonnie Huang, Egor Dolzhenko, Yunjiang Qiu, Fredrick Elishama Kakembo, Habi Joseph, Blessing Onyido, Jumoke Adeyemi, Mehrdad Bakhtiari, Jonghun Park, Sara Javadzadeh, Daudi Jjingo, Ezekiel Adebiyi, Vineet Bafna & Melissa Gymrek \
   **(Nature Communications 2023)** [Full Version](https://www.nature.com/articles/s41467-023-42278-3)
