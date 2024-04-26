@@ -25,17 +25,17 @@ In the summer of 2022, I was an intern in the AI lab at Illumina, Inc. where I h
  ***Helyaneh Ziaei Jam***, Yang Li, Ross DeVito, Nima Mousavi, Nichole Ma, Ibra Lujumba, Yagoub Adam, Mikhail Maksimov, Bonnie Huang, Egor Dolzhenko, Yunjiang Qiu, Fredrick Elishama Kakembo, Habi Joseph, Blessing Onyido, Jumoke Adeyemi, Mehrdad Bakhtiari, Jonghun Park, Sara Javadzadeh, Daudi Jjingo, Ezekiel Adebiyi, Vineet Bafna & Melissa Gymrek \
   **(Nature Communications 2023)** [Full Version](https://www.nature.com/articles/s41467-023-42278-3)
 
-### WebSTR: A Population-wide Database of Short Tandem Repeat Variation in Humans 
-Oxana (Sachenkova) Lundström, Max Adriaan Verbiest, Feifei Xia, ***Helyaneh Ziaei Jam***, Inti Zlobec, Maria Anisimova, Melissa Gymrek \
-  **(Journal of Molecular Biology 2023)** [Full Version](https://www.sciencedirect.com/science/article/pii/S0022283623003716?via%3Dihub)
-
 ### Genome-wide profiling of genetic variation at tandem repeat from long reads
 ***Helyaneh Ziaei Jam***, Justin M. Zook, Sara Javadzadeh, Jonghun Park, Aarushi Sehgal, Melissa Gymrek \
  [preprint](https://www.biorxiv.org/content/10.1101/2024.01.20.576266v1)
 
-### Benchmarking of small and large variants across tandem repeats 
+### Analysis and benchmarking of small and large genomic variants across tandem repeats
 Adam English, Egor Dolzhenko, ***Helyaneh Ziaei Jam***, Sean Mckenzie, Nathan D. Olson, Wouter De Coster, Jonghun Park, Bida Gu, Justin Wagner, Michael A Eberle, Melissa Gymrek, Mark J.P. Chaisson, Justin M. Zook, Fritz J Sedlazeck \
- [preprint](https://www.biorxiv.org/content/10.1101/2023.10.29.564632v1)
+ **(Nature Biotechnology 2024)** [Full Version](https://www.nature.com/articles/s41587-024-02225-z)
+
+### WebSTR: A Population-wide Database of Short Tandem Repeat Variation in Humans 
+Oxana (Sachenkova) Lundström, Max Adriaan Verbiest, Feifei Xia, ***Helyaneh Ziaei Jam***, Inti Zlobec, Maria Anisimova, Melissa Gymrek \
+  **(Journal of Molecular Biology 2023)** [Full Version](https://www.sciencedirect.com/science/article/pii/S0022283623003716?via%3Dihub)
 
 
 ### Genome-wide selection inference at short tandem repeats 
