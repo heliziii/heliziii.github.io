@@ -27,7 +27,7 @@ In the summer of 2022, I was an intern in the AI lab at Illumina, Inc. where I h
 
 ### LongTR: genome-wide profiling of genetic variation at tandem repeats from long reads
 ***Helyaneh Ziaei Jam***, Justin M. Zook, Sara Javadzadeh, Jonghun Park, Aarushi Sehgal, Melissa Gymrek \
- **(Genome Biology 2024)**[Full Version](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03319-2)
+ **(Genome Biology 2024)** [Full Version](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03319-2)
 
 ### Analysis and benchmarking of small and large genomic variants across tandem repeats
 Adam English, Egor Dolzhenko, ***Helyaneh Ziaei Jam***, Sean Mckenzie, Nathan D. Olson, Wouter De Coster, Jonghun Park, Bida Gu, Justin Wagner, Michael A Eberle, Melissa Gymrek, Mark J.P. Chaisson, Justin M. Zook, Fritz J Sedlazeck \
