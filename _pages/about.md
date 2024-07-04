@@ -25,9 +25,9 @@ In the summer of 2022, I was an intern in the AI lab at Illumina, Inc. where I h
  ***Helyaneh Ziaei Jam***, Yang Li, Ross DeVito, Nima Mousavi, Nichole Ma, Ibra Lujumba, Yagoub Adam, Mikhail Maksimov, Bonnie Huang, Egor Dolzhenko, Yunjiang Qiu, Fredrick Elishama Kakembo, Habi Joseph, Blessing Onyido, Jumoke Adeyemi, Mehrdad Bakhtiari, Jonghun Park, Sara Javadzadeh, Daudi Jjingo, Ezekiel Adebiyi, Vineet Bafna & Melissa Gymrek \
   **(Nature Communications 2023)** [Full Version](https://www.nature.com/articles/s41467-023-42278-3)
 
-### Genome-wide profiling of genetic variation at tandem repeat from long reads
+### LongTR: genome-wide profiling of genetic variation at tandem repeats from long reads
 ***Helyaneh Ziaei Jam***, Justin M. Zook, Sara Javadzadeh, Jonghun Park, Aarushi Sehgal, Melissa Gymrek \
- [preprint](https://www.biorxiv.org/content/10.1101/2024.01.20.576266v1)
+ **(Genome Biology 2024)**[Full Version](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03319-2)
 
 ### Analysis and benchmarking of small and large genomic variants across tandem repeats
 Adam English, Egor Dolzhenko, ***Helyaneh Ziaei Jam***, Sean Mckenzie, Nathan D. Olson, Wouter De Coster, Jonghun Park, Bida Gu, Justin Wagner, Michael A Eberle, Melissa Gymrek, Mark J.P. Chaisson, Justin M. Zook, Fritz J Sedlazeck \
