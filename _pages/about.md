@@ -10,7 +10,7 @@ redirect_from:
 
 I am a forth-year [CSE](https://cse.ucsd.edu/) Ph.D. student at the University of California San Diego, advised by Professor [Melissa Gymrek](https://gymreklab.com/people.html). Before joining UCSD, I received my B.Sc. in Computer Engineering from Sharif University of Technology. My research focuses on developing methods to explore ancestral genome diversity and its impact on human traits. 
 
-In the summer of 2022, I was an intern in the AI lab at Illumina, Inc. where I had the pleasure to work with Petko Fiziev.
+In the summer of 2022, I was an intern in the AI lab at Illumina, Inc. where I had the pleasure of working with Petko Fiziev. Currently, I am an intern in the Michelangelo team at Uber, where I am fortunate to work with Bo Ling, Raajay Viswanathan, and Eric Chen.
 
 <br>
 
