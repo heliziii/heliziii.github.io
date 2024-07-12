@@ -47,6 +47,18 @@ Aarushi Sehgal, ***Helyaneh Ziaei Jam***, Andrew Shen, Melissa Gymrek \
  [preprint](https://www.biorxiv.org/content/10.1101/2023.11.22.568371v1)
 
 
+## Honors and Awards
+
+<div style="line-height:100%;">
+    <br>
+</div>
+
+Recipient of the 2024-25 **Friends of the International Center Fellowship**, associated with the UC San Diego University.
+
+Recipient of UC San Diego University 2020-2021 Doctoral Fellowship.
+
+Silver Medal in the National Astronomy and Astrophysics Olympiad Iran, 2014.
+
  <br>
 
 
