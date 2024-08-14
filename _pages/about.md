@@ -35,15 +35,16 @@ Adam English, Egor Dolzhenko, Helyaneh Ziaei Jam, Sean Mckenzie, Nathan D. Olson
 **WebSTR: A Population-wide Database of Short Tandem Repeat Variation in Humans** \
 Oxana (Sachenkova) Lundström, Max Adriaan Verbiest, Feifei Xia, Helyaneh Ziaei Jam, Inti Zlobec, Maria Anisimova, Melissa Gymrek \
   ***(Journal of Molecular Biology 2023)*** [Full Version](https://www.sciencedirect.com/science/article/pii/S0022283623003716?via%3Dihub)
-
+  
+**Genome-wide detection of somatic mosaicism at short tandem repeats** \
+Aarushi Sehgal, Helyaneh Ziaei Jam, Andrew Shen, Melissa Gymrek \
+ ***(Bioinformatics 2024)*** [Full Version](https://academic.oup.com/bioinformatics/article/40/8/btae485/7723996)
 
 **Genome-wide selection inference at short tandem repeats** \
 Bonnie Huang, Arun Durvasula, Nima Mousavi, Helyaneh Ziaei Jam, Mikhail Maksimov, Kirk E. Lohmueller, Melissa Gymrek \
 [preprint](https://www.biorxiv.org/content/10.1101/2022.05.12.491726v1)
 
-**Genome-wide detection of somatic mosaicism at short tandem repeats** \
-Aarushi Sehgal, Helyaneh Ziaei Jam, Andrew Shen, Melissa Gymrek \
- [preprint](https://www.biorxiv.org/content/10.1101/2023.11.22.568371v1)
+
 
 
 ### Honors and Awards
