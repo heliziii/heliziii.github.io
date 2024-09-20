@@ -53,6 +53,8 @@ Bonnie Huang, Arun Durvasula, Nima Mousavi, Helyaneh Ziaei Jam, Mikhail Maksimov
     <br>
 </div>
 
+Selected as one of the five students for the 2025 class of [Siebel Scholars program](https://www.siebelscholars.com/) at UC San Diego. 
+
 Recipient of the 2024-25 **Friends of the International Center Fellowship**, associated with the UC San Diego University.
 
 Recipient of UC San Diego University 2020-2021 Doctoral Fellowship.
