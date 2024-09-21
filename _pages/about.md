@@ -10,7 +10,7 @@ redirect_from:
 
 I am a forth-year [CSE](https://cse.ucsd.edu/) Ph.D. student at the University of California San Diego, advised by Professor [Melissa Gymrek](https://gymreklab.com/people.html). Before joining UCSD, I received my B.Sc. in Computer Engineering from Sharif University of Technology. My research focuses on developing methods to explore ancestral genome diversity and its impact on human traits. 
 
-In the summer of 2022, I was an intern in the AI lab at Illumina, Inc. where I had the pleasure of working with Petko Fiziev. Currently, I am an intern in the Michelangelo team at Uber, where I am fortunate to work with Bo Ling, Raajay Viswanathan, and Eric Chen.
+In the summer of 2022, I was an intern in the AI lab at Illumina, Inc. where I had the pleasure of working with Petko Fiziev. In the summer of 2024, I was an intern in the Michelangelo team at Uber, where I was fortunate to work with Bo Ling, Raajay Viswanathan, and Eric Chen on learning semantic IDs from item embeddings using an RQ-VAE model.
 
 <br>
 
@@ -53,7 +53,7 @@ Bonnie Huang, Arun Durvasula, Nima Mousavi, Helyaneh Ziaei Jam, Mikhail Maksimov
     <br>
 </div>
 
-Selected as one of the five graduate students students for the [2025 class](https://today.ucsd.edu/story/engineering-graduate-students-awarded-siebel-scholarship) of [Siebel Scholars program](https://www.siebelscholars.com/) at UC San Diego. 
+Selected as one of the five graduate students for the [2025 class](https://today.ucsd.edu/story/engineering-graduate-students-awarded-siebel-scholarship) of [Siebel Scholars program](https://www.siebelscholars.com/) at UC San Diego. 
 
 Recipient of the 2024-25 **Friends of the International Center Fellowship**, associated with the UC San Diego University.
 
