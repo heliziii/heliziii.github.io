@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth-year [CSE](https://cse.ucsd.edu/) Ph.D. student at the University of California San Diego, advised by Professor [Melissa Gymrek](https://gymreklab.com/people.html). Before joining UCSD, I received my B.Sc. in Computer Engineering from Sharif University of Technology. My research focuses on developing methods to explore ancestral genome diversity and its impact on human traits. 
+I am a fourth-year [CSE](https://cse.ucsd.edu/) Ph.D. candidate at the University of California San Diego, advised by Professor [Melissa Gymrek](https://gymreklab.com/people.html). Before joining UCSD, I received my B.Sc. in Computer Engineering from Sharif University of Technology. My research focuses on developing methods to explore ancestral genome diversity and its impact on human traits. 
 
 In the summer of 2022, I was an intern in the AI lab at Illumina, Inc. where I had the pleasure of working with Petko Fiziev. In the summer of 2024, I was an intern in the Michelangelo team at Uber, where I was fortunate to work with Bo Ling, Raajay Viswanathan, and Eric Chen on learning semantic IDs from item embeddings using an RQ-VAE model.
 
