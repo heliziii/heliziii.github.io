@@ -41,7 +41,7 @@ Aarushi Sehgal, Helyaneh Ziaei Jam, Andrew Shen, Melissa Gymrek \
  ***(Bioinformatics 2024)*** [Full Version](https://academic.oup.com/bioinformatics/article/40/8/btae485/7723996)
 
  **Defining a tandem repeat catalog and variation clusters for genome-wide analyses and population databases** \
- Ben Weisburd, Egor Dolzhenko, Mark F. Bennett, Matt C. Danzi, Adam English, Laurel Hiatt, Hope Tanudisastro, Nehir Edibe Kurtas, Helyaneh Ziaei Jam, Harrison Brand, Fritz J. Sedlazeck, Melissa Gymrek, Harriet Dashnow, Michael A. Eberle, Heidi L. Rehm
+ Ben Weisburd, Egor Dolzhenko, Mark F. Bennett, Matt C. Danzi, Adam English, Laurel Hiatt, Hope Tanudisastro, Nehir Edibe Kurtas, Helyaneh Ziaei Jam, Harrison Brand, Fritz J. Sedlazeck, Melissa Gymrek, Harriet Dashnow, Michael A. Eberle, Heidi L. Rehm \
  [preprint](https://www.biorxiv.org/content/10.1101/2024.10.04.615514v1)
 
 **Genome-wide selection inference at short tandem repeats** \
