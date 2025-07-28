@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year [CSE](https://cse.ucsd.edu/) Ph.D. candidate at the University of California San Diego, advised by Professor [Melissa Gymrek](https://gymreklab.com/people.html). Before joining UCSD, I received my B.Sc. in Computer Engineering from Sharif University of Technology. My research focuses on developing methods to explore ancestral genome diversity and its impact on human traits. 
+I am a fifth-year [CSE](https://cse.ucsd.edu/) Ph.D. candidate at the University of California San Diego, advised by Professor [Melissa Gymrek](https://gymreklab.com/people.html). Before joining UCSD, I received my B.Sc. in Computer Engineering from Sharif University of Technology. My research focuses on developing methods to explore ancestral genome diversity and its impact on human traits. 
 
 In the summer of 2022, I was an intern in the AI lab at Illumina, Inc. where I had the pleasure of working with Petko Fiziev. In the summer of 2024, I was an intern in the Michelangelo team at Uber, where I was fortunate to work with Bo Ling, Raajay Viswanathan, and Eric Chen on learning semantic IDs from item embeddings using an RQ-VAE model.
 
@@ -39,6 +39,10 @@ Oxana (Sachenkova) Lundström, Max Adriaan Verbiest, Feifei Xia, Helyaneh Ziaei 
 **Genome-wide detection of somatic mosaicism at short tandem repeats** \
 Aarushi Sehgal, Helyaneh Ziaei Jam, Andrew Shen, Melissa Gymrek \
  ***(Bioinformatics 2024)*** [Full Version](https://academic.oup.com/bioinformatics/article/40/8/btae485/7723996)
+
+**Long Read Genome Sequencing Elucidates Diverse Functional Consequences of Structural and Repeat Variation in Autism** \
+Milad Mortazavi, James Guevara, Joshua Diaz, Stephen Tran, Helyaneh Ziaei Jam, Sergey Batalov, Matthew Bainbridge, Aaron D. Besterman, Melissa Gymrek, Abraham A. Palmer, Jonathan Sebat \
+[preprint](https://www.medrxiv.org/content/10.1101/2025.07.20.25331880v1)
 
  **Defining a tandem repeat catalog and variation clusters for genome-wide analyses and population databases** \
  Ben Weisburd, Egor Dolzhenko, Mark F. Bennett, Matt C. Danzi, Adam English, Laurel Hiatt, Hope Tanudisastro, Nehir Edibe Kurtas, Helyaneh Ziaei Jam, Harrison Brand, Fritz J. Sedlazeck, Melissa Gymrek, Harriet Dashnow, Michael A. Eberle, Heidi L. Rehm \
