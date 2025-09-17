@@ -40,6 +40,10 @@ Oxana (Sachenkova) Lundström, Max Adriaan Verbiest, Feifei Xia, Helyaneh Ziaei 
 Aarushi Sehgal, Helyaneh Ziaei Jam, Andrew Shen, Melissa Gymrek \
  ***(Bioinformatics 2024)*** [Full Version](https://academic.oup.com/bioinformatics/article/40/8/btae485/7723996)
 
+**A practical guide to identifying associations between tandem repeats and complex human traits using consensus genotypes from multiple tools** \
+Ibra Lujumba, Yagoub Adam, Helyaneh Ziaei Jam, Itunuoluwa Isewon, Nomakhosazana Monnakgotla, Yang Li, Blessing Onyido, Kakembo Fredrick, Faith Adegoke, Jerry Emmanuel, Jumoke Adeyemi, Olajumoke Ibitoye, Samuel Owusu-Ansah, Matthew Boladele Akanle, Habi Joseph, Mike Nsubuga, Ronald Galiwango, Martin Okitwi, Namuswe Magdalene, Odur Walter, Zama Mngadi, Marion Adebiyi, Jelili Oyelade, Melissa Nel, Daudi Jjingo, Melissa Gymrek, Ezekiel Adebiyi
+***(Nature Protocols 2025)*** [Full Version](https://www.nature.com/articles/s41596-025-01231-y)
+
 **Long Read Genome Sequencing Elucidates Diverse Functional Consequences of Structural and Repeat Variation in Autism** \
 Milad Mortazavi, James Guevara, Joshua Diaz, Stephen Tran, Helyaneh Ziaei Jam, Sergey Batalov, Matthew Bainbridge, Aaron D. Besterman, Melissa Gymrek, Abraham A. Palmer, Jonathan Sebat \
 [preprint](https://www.medrxiv.org/content/10.1101/2025.07.20.25331880v1)
