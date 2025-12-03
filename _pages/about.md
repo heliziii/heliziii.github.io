@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year [CSE](https://cse.ucsd.edu/) Ph.D. candidate at the University of California San Diego, advised by Professor [Melissa Gymrek](https://gymreklab.com/people.html). Before joining UCSD, I received my B.Sc. in Computer Engineering from Sharif University of Technology. My research focuses on developing methods to explore ancestral genome diversity and its impact on human traits. 
+I am a Machine Learning Engineer at Michelangelo team at Uber. Prior to this, I received my Ph.D. from [Department of Computer Science and Engineering](https://cse.ucsd.edu/) at University of California San Diego, advised by Professor [Melissa Gymrek](https://gymreklab.com/people.html) where my research was focused on developing methods to explore ancestral genome diversity and its impact on human traits. I received my B.Sc. in Computer Engineering from Sharif University of Technology, Tehran, Iran.
 
 In the summer of 2022, I was an intern in the AI lab at Illumina, Inc. where I had the pleasure of working with Petko Fiziev. In the summer of 2024, I was an intern in the Michelangelo team at Uber, where I was fortunate to work with Bo Ling, Raajay Viswanathan, and Eric Chen on learning semantic IDs from item embeddings using an RQ-VAE model.
 
@@ -34,7 +34,7 @@ Adam English, Egor Dolzhenko, Helyaneh Ziaei Jam, Sean Mckenzie, Nathan D. Olson
 
 **WebSTR: A Population-wide Database of Short Tandem Repeat Variation in Humans** \
 Oxana (Sachenkova) Lundström, Max Adriaan Verbiest, Feifei Xia, Helyaneh Ziaei Jam, Inti Zlobec, Maria Anisimova, Melissa Gymrek \
-  ***(Journal of Molecular Biology 2023)*** [Full Version](https://www.sciencedirect.com/science/article/pii/S0022283623003716?via%3Dihub)
+***(Journal of Molecular Biology 2023)*** [Full Version](https://www.sciencedirect.com/science/article/pii/S0022283623003716?via%3Dihub)
   
 **Genome-wide detection of somatic mosaicism at short tandem repeats** \
 Aarushi Sehgal, Helyaneh Ziaei Jam, Andrew Shen, Melissa Gymrek \
@@ -44,6 +44,11 @@ Aarushi Sehgal, Helyaneh Ziaei Jam, Andrew Shen, Melissa Gymrek \
 Ibra Lujumba, Yagoub Adam, Helyaneh Ziaei Jam, Itunuoluwa Isewon, Nomakhosazana Monnakgotla, Yang Li, Blessing Onyido, Kakembo Fredrick, Faith Adegoke, Jerry Emmanuel, Jumoke Adeyemi, Olajumoke Ibitoye, Samuel Owusu-Ansah, Matthew Boladele Akanle, Habi Joseph, Mike Nsubuga, Ronald Galiwango, Martin Okitwi, Namuswe Magdalene, Odur Walter, Zama Mngadi, Marion Adebiyi, Jelili Oyelade, Melissa Nel, Daudi Jjingo, Melissa Gymrek, Ezekiel Adebiyi \
 ***(Nature Protocols 2025)*** [Full Version](https://www.nature.com/articles/s41596-025-01231-y)
 
+
+**Genome-wide selection inference at short tandem repeats** \
+Bonnie Huang, Arun Durvasula, Nima Mousavi, Helyaneh Ziaei Jam, Mikhail Maksimov, Kirk E. Lohmueller, Melissa Gymrek \
+***(PLOS Genetics)*** [Full Version](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011959)
+
 **Long Read Genome Sequencing Elucidates Diverse Functional Consequences of Structural and Repeat Variation in Autism** \
 Milad Mortazavi, James Guevara, Joshua Diaz, Stephen Tran, Helyaneh Ziaei Jam, Sergey Batalov, Matthew Bainbridge, Aaron D. Besterman, Melissa Gymrek, Abraham A. Palmer, Jonathan Sebat \
 [preprint](https://www.medrxiv.org/content/10.1101/2025.07.20.25331880v1)
@@ -52,9 +57,7 @@ Milad Mortazavi, James Guevara, Joshua Diaz, Stephen Tran, Helyaneh Ziaei Jam, S
  Ben Weisburd, Egor Dolzhenko, Mark F. Bennett, Matt C. Danzi, Adam English, Laurel Hiatt, Hope Tanudisastro, Nehir Edibe Kurtas, Helyaneh Ziaei Jam, Harrison Brand, Fritz J. Sedlazeck, Melissa Gymrek, Harriet Dashnow, Michael A. Eberle, Heidi L. Rehm \
  [preprint](https://www.biorxiv.org/content/10.1101/2024.10.04.615514v1)
 
-**Genome-wide selection inference at short tandem repeats** \
-Bonnie Huang, Arun Durvasula, Nima Mousavi, Helyaneh Ziaei Jam, Mikhail Maksimov, Kirk E. Lohmueller, Melissa Gymrek \
-[preprint](https://www.biorxiv.org/content/10.1101/2022.05.12.491726v1)
+
 
 
 
