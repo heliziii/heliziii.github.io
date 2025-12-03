@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning Engineer at Michelangelo team at Uber. Prior to this, I received my Ph.D. from [Department of Computer Science and Engineering](https://cse.ucsd.edu/) at University of California San Diego, advised by Professor [Melissa Gymrek](https://gymreklab.com/people.html) where my research was focused on developing methods to explore ancestral genome diversity and its impact on human traits. I received my B.Sc. in Computer Engineering from Sharif University of Technology, Tehran, Iran.
+I am a Machine Learning Engineer at the Michelangelo team at [Uber](uber.com). Prior to this, I received my Ph.D. from [Department of Computer Science and Engineering](https://cse.ucsd.edu/) at University of California San Diego, advised by Professor [Melissa Gymrek](https://gymreklab.com/people.html), where my research was focused on developing methods to explore ancestral genome diversity and its impact on human traits. I received my B.Sc. in Computer Engineering from Sharif University of Technology, Tehran, Iran.
 
 In the summer of 2022, I was an intern in the AI lab at Illumina, Inc. where I had the pleasure of working with Petko Fiziev. In the summer of 2024, I was an intern in the Michelangelo team at Uber, where I was fortunate to work with Bo Ling, Raajay Viswanathan, and Eric Chen on learning semantic IDs from item embeddings using an RQ-VAE model.
 
