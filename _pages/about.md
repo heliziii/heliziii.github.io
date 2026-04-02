@@ -47,11 +47,11 @@ Ibra Lujumba, Yagoub Adam, Helyaneh Ziaei Jam, Itunuoluwa Isewon, Nomakhosazana 
 
 **Genome-wide selection inference at short tandem repeats** \
 Bonnie Huang, Arun Durvasula, Nima Mousavi, Helyaneh Ziaei Jam, Mikhail Maksimov, Kirk E. Lohmueller, Melissa Gymrek \
-***(PLOS Genetics)*** [Full Version](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011959)
+***(PLOS Genetics 2025)*** [Full Version](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011959)
 
 **Long Read Genome Sequencing Elucidates Diverse Functional Consequences of Structural and Repeat Variation in Autism** \
 Milad Mortazavi, James Guevara, Joshua Diaz, Stephen Tran, Helyaneh Ziaei Jam, Sergey Batalov, Matthew Bainbridge, Aaron D. Besterman, Melissa Gymrek, Abraham A. Palmer, Jonathan Sebat \
-***(Cell Genomics)*** [Full Version](https://www.cell.com/cell-genomics/fulltext/S2666-979X(26)00048-0)
+***(Cell Genomics 2026)*** [Full Version](https://www.cell.com/cell-genomics/fulltext/S2666-979X(26)00048-0)
 
  **Defining a tandem repeat catalog and variation clusters for genome-wide analyses and population databases** \
  Ben Weisburd, Egor Dolzhenko, Mark F. Bennett, Matt C. Danzi, Adam English, Laurel Hiatt, Hope Tanudisastro, Nehir Edibe Kurtas, Helyaneh Ziaei Jam, Harrison Brand, Fritz J. Sedlazeck, Melissa Gymrek, Harriet Dashnow, Michael A. Eberle, Heidi L. Rehm \
