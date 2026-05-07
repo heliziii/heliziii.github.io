@@ -55,7 +55,7 @@ Milad Mortazavi, James Guevara, Joshua Diaz, Stephen Tran, Helyaneh Ziaei Jam, S
 
  **Defining a tandem repeat catalog and variation clusters for genome-wide analyses and population databases** \
  Ben Weisburd, Egor Dolzhenko, Mark F. Bennett, Matt C. Danzi, Adam English, Laurel Hiatt, Hope Tanudisastro, Nehir Edibe Kurtas, Helyaneh Ziaei Jam, Harrison Brand, Fritz J. Sedlazeck, Melissa Gymrek, Harriet Dashnow, Michael A. Eberle, Heidi L. Rehm \
- [preprint](https://www.biorxiv.org/content/10.1101/2024.10.04.615514v1)
+ ***(AJHG 2026)*** [Full Version](https://www.cell.com/ajhg/fulltext/S0002-9297(26)00150-3)
 
 
 
